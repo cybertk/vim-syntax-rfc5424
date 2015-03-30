@@ -1,8 +1,8 @@
-" $Id: rfc5424.vim,v 0.1.0 2011/08/02 Kyan Exp $
+" $Id: rfc5424.vim,v 0.1.1 2015/03/31 Kyan Exp $
 " Vim syntax file
 " Language:     RFC5424 syslog log file
 " Maintainer:   Kyan He <kyan.ql.he@gmail.com>
-" Last Change:  $Date: 2013/08/27 13:00:00 $
+" Last Change:  $Date: 2015/03/31 00:01:07 $
 " Remark:
 
 if version < 600
